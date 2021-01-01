@@ -21,7 +21,7 @@ public class main2 {
     // Germanic Clans
     static public Clans Alemanni = new Clans("Centum", "Germanic", "Alemannic German", "Nothern Germany", "213 AD",
 		    "Germanic Pantheon", "R1b");
-    static public Clans AngloSaxon = new Claddddns("Centum", "Germanic", "Old English", "Nothern Germany", "500AD",
+    static public Clans AngloSaxon = new Clans("Centum", "Germanic", "Old English", "Nothern Germany", "500AD",
 		    "Germanic Pantheon", "R1b");
     static public Clans Thuringii = new Clans("Centum", "Germanic", "East Central German", "Central Germany", "300AD",
 		    "Germanic Pantheon", "R1b");
